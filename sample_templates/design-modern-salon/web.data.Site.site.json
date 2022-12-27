@@ -1,0 +1,94 @@
+{
+    "activateMobileView": true,
+    "dataVersionNumber": 51,
+    "folder": {
+        "id": "899F5C53-34B9-4B66-B20D-AFD7AB8FDBAE",
+        "items": [
+            {
+                "categories": [],
+                "customTitle": "",
+                "description": "",
+                "hidden": true,
+                "id": "703F01C2-5B58-4130-9544-AB380B9AD494",
+                "items": [],
+                "name": "#i18n.repository.name.modernSalon",
+                "pageId": "927B220A-26B4-445D-8D2D-A44780AC042A",
+                "public": false,
+                "robots": "all",
+                "socialShareAsset": null,
+                "templateId": "71C3D6D1-99CC-4665-B04F-3199CC4EF073",
+                "title": "#i18n.repository.name.modernSalon",
+                "type": "web.data.links.LinkPage",
+                "url": "modern-salon"
+            },
+            {
+                "categories": [],
+                "customTitle": "",
+                "description": "",
+                "hidden": true,
+                "id": "453F2B12-2FE8-4DAD-8AD2-9074362FA418",
+                "items": [],
+                "name": "#i18n.repository.common.home.titlecase",
+                "pageId": "C9C11A87-B503-452A-AB98-F0006B323E29",
+                "public": true,
+                "robots": "all",
+                "socialShareAsset": null,
+                "templateId": "71C3D6D1-99CC-4665-B04F-3199CC4EF073",
+                "title": "#i18n.repository.common.home.titlecase",
+                "type": "web.data.links.LinkPage",
+                "url": "home"
+            },
+            {
+                "hidden": false,
+                "id": "FDC82FD2-AA0B-46DF-8FBD-B37513291B8C",
+                "name": "#i18n.repository.common.aboutUs.titlecase",
+                "pageId": "C9C11A87-B503-452A-AB98-F0006B323E29",
+                "sectionId": "4CC46AAA-4B6E-43B3-A622-AD7CB6993492",
+                "type": "web.data.links.LinkSection"
+            },
+            {
+                "hidden": false,
+                "id": "0AE544D6-789A-4462-97BD-640A7BEDA027",
+                "name": "#i18n.repository.common.services.titlecase",
+                "pageId": "C9C11A87-B503-452A-AB98-F0006B323E29",
+                "sectionId": "B16A4AAC-5D5A-4C21-B94A-91483C8995B2",
+                "type": "web.data.links.LinkSection"
+            },
+            {
+                "hidden": false,
+                "id": "31A5F92E-27A2-4DB6-8FD3-E0569112ED23",
+                "name": "#i18n.repository.common.testimonials.titlecase",
+                "pageId": "C9C11A87-B503-452A-AB98-F0006B323E29",
+                "sectionId": "78EECEFA-716E-40DF-8D88-7C88CF1559F8",
+                "type": "web.data.links.LinkSection"
+            },
+            {
+                "hidden": false,
+                "id": "43AE9E1C-79FC-4459-B6DA-6BDEC05AC845",
+                "name": "#i18n.repository.common.bookAnAppointment.titlecase",
+                "pageId": "C9C11A87-B503-452A-AB98-F0006B323E29",
+                "sectionId": "EC7C4EC9-893D-4278-AE5E-E7EBE7315D20",
+                "type": "web.data.links.LinkSection"
+            }
+        ],
+        "name": "[root]",
+        "type": "web.data.links.LinkPage"
+    },
+    "fonts": [
+        "google://Roboto",
+        "google://Playfair Display",
+        "google://Quicksand",
+        "google://Lato",
+        "google://Dancing Script",
+        "google://Montserrat"
+    ],
+    "homePageId": "C9C11A87-B503-452A-AB98-F0006B323E29",
+    "id": "site",
+    "migrationInfo": [
+        40
+    ],
+    "name": "new",
+    "type": "web.data.Site",
+    "versionTag": "61.0.2",
+    "wsbVersion": 2
+}
